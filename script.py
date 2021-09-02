@@ -4,4 +4,4 @@
 
 import requests
 
-print(requests.get('http://google.com/'))
+print(requests.get('https://raw.githubusercontent.com/poulomi-g/CMPUT404/main/script.py'))
